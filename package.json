@@ -1,6 +1,6 @@
 {
   "name": "deferred-http-statuses",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A quick promise wrapper and helper for http status codes",
   "main": "index.js",
   "scripts": {

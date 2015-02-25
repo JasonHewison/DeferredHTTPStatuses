@@ -7,7 +7,7 @@ A quick promise wrapper and helper for http status codes
 
 ### Use
 
-    var Deferred = require('./utils/deferred');
+    var Deferred = require('deferred-http-statuses');
 
     var deferred = new Deferred();
 
