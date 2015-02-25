@@ -1,6 +1,6 @@
 {
   "name": "deferred-http-statuses",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A quick promise wrapper and helper for http status codes",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/GrumpyWizards/DeferredHTTPStatuses/issues"
   },
-  "homepage": "https://github.com/GrumpyWizards/DeferredHTTPStatuses"
+  "homepage": "https://github.com/GrumpyWizards/DeferredHTTPStatuses",
+  "dependencies": {
+    "q": "^1.2.0"
+  }
 }
